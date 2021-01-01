@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-19T07:09:50.570Z</updated>
+  <updated>2021-01-01T07:31:42.587Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,18 +21,18 @@
     <link href="http://example.com/2020/12/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
     <id>http://example.com/2020/12/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
     <published>2020-12-19T05:27:20.167Z</published>
-    <updated>2020-12-19T07:09:50.570Z</updated>
+    <updated>2021-01-01T07:31:42.587Z</updated>
     
-    <content type="html"><![CDATA[<p>date: 2020-12-18 21:21:37</p><p>tags:</p><p>## hexo</p><p>1、安装 node.js</p><p>2、npm install -g cnpm –registry=<a href="http://registry.npm.taobao.org/">http://registry.npm.taobao.org</a> 安装淘宝 cnpm 管理器</p><p>3、cnpm install -g hexo-cli 安装 hexo 框架</p><p>4、mkdir F:blog 创建 blog 目录</p><p>5、cd 到 blog 目录</p><p>6、hexo init 初始化博客</p><p>7、hexo s 启动本地博客服务</p><p>8、localhost:4000 本地访问地址</p><p>9、hexo n 创建新的文章</p><p>10、hexo clean 清理</p><p>11、hexo g 生成</p><p>12、GitHub 创建一个新仓库 （仓库名为 GitHub 昵称+github.io）</p><p>13、cnpm install –save hexo-deployer-git 在 blog 目录下安卓 git 部署插件</p><p>14、配置 _config.yml</p><p>deploy:</p><p>type: git</p><p>repo: <a href="https://github.com/liu-v0916/liu-v0916.github.io.git">https://github.com/liu-v0916/liu-v0916.github.io.git</a></p><p>branch: master</p><p>15、hexo d 部署到 GitHub 仓库（就可以访问”<a href="http://liu-v0916.github.io&quot;来查看博客)/">http://liu-v0916.github.io&quot;来查看博客）</a></p><p>16、git clone 主题地址 themes/主题名称 (下载主题到本地)</p><p>17、修改_config.yml</p><p>theme: yilia</p><p>18、hexo clean 清理</p><p>19、hexo g 生成</p><h2 id="20、hexo-d-部署到远端"><a href="#20、hexo-d-部署到远端" class="headerlink" title="20、hexo d 部署到远端"></a>20、hexo d 部署到远端</h2>]]></content>
+    <content type="html"><![CDATA[<p>date: 2020-12-18 21:21:37</p><p>tags:</p><p>## 创建 hexo 博客教程</p><p>1、安装 node.js</p><p>2、npm install -g cnpm –registry=<a href="http://registry.npm.taobao.org/">http://registry.npm.taobao.org</a> 安装淘宝 cnpm 管理器</p><p>3、cnpm install -g hexo-cli 安装 hexo 框架</p><p>4、mkdir F:blog 创建 blog 目录</p><p>5、cd 到 blog 目录</p><p>6、hexo init 初始化博客</p><p>7、hexo s 启动本地博客服务</p><p>8、localhost:4000 本地访问地址</p><p>9、hexo n “填文章名字” 创建新的文章</p><p>10、hexo clean 清理</p><p>11、hexo g 生成</p><p>12、GitHub 创建一个新仓库 （仓库名为 GitHub 昵称+github.io）</p><p>13、cnpm install –save hexo-deployer-git 在 blog 目录下安卓 git 部署插件</p><p>14、配置 _config.yml</p><p>deploy:<br>type: git<br>repo: <a href="https://github.com/liu-v0916/liu-v0916.github.io.git">https://github.com/liu-v0916/liu-v0916.github.io.git</a><br>branch: master</p><p>15、hexo d 部署到 GitHub 仓库（就可以访问”<a href="http://liu-v0916.github.io&quot;来查看博客)/">http://liu-v0916.github.io&quot;来查看博客）</a></p><p>16、git clone 主题地址 themes/主题名称 (下载主题到本地)</p><p>17、修改_config.yml<br>theme: yilia</p><p>18、hexo clean 清理</p><p>19、hexo g 生成</p><p>20、hexo d 部署到远端</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;date: 2020-12-18 21:21:37&lt;/p&gt;
 &lt;p&gt;tags:&lt;/p&gt;
-&lt;p&gt;## hexo&lt;/p&gt;
+&lt;p&gt;## 创建 hexo 博客教程&lt;/p&gt;
 &lt;p&gt;1、安装 node.js&lt;/p&gt;
-&lt;p&gt;2、npm install -g cnpm –registry=&lt;a href=&quot;http://registry</summary>
+&lt;p&gt;2、npm install -g cnpm –registry=&lt;a href=&quot;http://</summary>
       
     
     
